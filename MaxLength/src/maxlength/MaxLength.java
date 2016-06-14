@@ -55,7 +55,6 @@ public class MaxLength {
 
         String outputPath = "src" + File.separator + "test" + File.separator + "output.txt";
 
-//        File output = new File("src/test/output.txt");
         File output = new File(outputPath);
 
         FileWriter fw;
